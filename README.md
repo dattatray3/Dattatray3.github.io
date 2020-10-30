@@ -1,2 +1,1 @@
-# Dattatray3.github.io
-Hey 👋, I'm Dattatray
+Hey 👋, I'm Dattatray.
